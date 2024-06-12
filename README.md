@@ -33,28 +33,6 @@ GenomicInsights is a user-friendly web-based platform designed to analyze DNA se
 
 The architecture of GenomicInsights follows a client-server model. The frontend, implemented using HTML, CSS, and JavaScript, handles user input and displays output. The backend processes requests from the frontend, performs data processing, and interacts with a database for data storage and retrieval. The backend employs dynamic programming algorithms to analyze DNA sequences, identify common subsequences, and perform additional analysis tasks.
 
-
-graph TD;
-    A[User] --> B(HTML Form)
-    B --> C(JavaScript Function: analyzeSequences)
-    C --> D{Input Validation}
-    D -->|Valid| E{Calculate Common Subsequences}
-    D -->|Invalid| F[Error Message]
-    E --> G{Display Output}
-    G -->|No common subsequence| H[No common subsequence found]
-    G -->|Common subsequence found| I[Output with common subsequence and Analysis Steps]
-    I --> J1(Identifying evolutionary relationships)
-    I --> J2(Detecting genetic mutations)
-    I --> J3(Understanding functional significance)
-    J1 --> K1(Phylogenetic tree constructed)
-    J2 --> K2(Genetic mutations detected)
-    J3 --> K3(Functional significance analyzed)
-    F --> output[Output]
-    H --> output
-    K1 --> output
-    K2 --> output
-    K3 --> output
-
 ## Acknowledgments
 
 We extend our gratitude to everyone who contributed to the development of this project, especially our project guide, Dr. K. Alice, for her invaluable guidance and support. We also thank our family and friends for their continuous encouragement.
