@@ -33,7 +33,7 @@ GenomicInsights is a user-friendly web-based platform designed to analyze DNA se
 
 The architecture of GenomicInsights follows a client-server model. The frontend, implemented using HTML, CSS, and JavaScript, handles user input and displays output. The backend processes requests from the frontend, performs data processing, and interacts with a database for data storage and retrieval. The backend employs dynamic programming algorithms to analyze DNA sequences, identify common subsequences, and perform additional analysis tasks.
 
-```mermaid
+
 graph TD;
     A[User] --> B(HTML Form)
     B --> C(JavaScript Function: analyzeSequences)
