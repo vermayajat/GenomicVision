@@ -39,7 +39,7 @@ We extend our gratitude to everyone who contributed to the development of this p
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at rohansoni342ni@gmail.com.
 
 ## Links
 
