@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌐 GenomicVision: Decoding Life Through Code
 
 A Next-Gen Web Platform for DNA Sequence Analysis
@@ -83,3 +84,6 @@ GitHub Repository: https://github.com/YajatYourRepo/GenomicVision
 Live Demo: https://YajatYourRepo.github.io/GenomicVision
 
 ✨ GenomicVision bridges the gap between biology and technology, helping you decode life — one sequence at a time.
+=======
+# GenomicVision
+>>>>>>> eac8c7e51dab1f4b709fd199c223809b7c793b57
