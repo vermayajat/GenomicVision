@@ -32,7 +32,7 @@ Whether you are learning genetics or conducting bioinformatics research, Genomic
 
 Frontend
 
-**HTML5 – Structure and layout
+HTML5 – Structure and layout
 
 CSS3 – Styling and responsive design
 
@@ -43,7 +43,7 @@ Backend (optional for future expansion)
 Node.js – Server-side DNA analysis
 
 Express.js – API handling for scalable requests
-**
+
 Other Tools
 
 **Mermaid – For architecture and workflow diagrams**
