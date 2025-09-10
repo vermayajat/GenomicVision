@@ -7,8 +7,11 @@ A Next-Gen Web Platform for DNA Sequence Analysis
 GenomicVision is an interactive, web-based platform designed to empower users to analyze DNA sequences in an intuitive and meaningful way. By combining dynamic programming algorithms with a clean, user-friendly interface, GenomicVision allows researchers, students, and bioinformatics enthusiasts to explore:
 
 1.The longest common subsequences (LCS) between DNA samples
+
 2.Evolutionary relationships through comparative sequence analysis
+
 3.Genetic mutations and sequence mismatches
+
 4.Functional insights into genetic data
 
 Whether you are learning genetics or conducting bioinformatics research, GenomicVision provides a simple yet powerful tool for DNA analysis.
@@ -16,27 +19,32 @@ Whether you are learning genetics or conducting bioinformatics research, Genomic
 🚀 Features
 
 🧬 DNA Sequence Comparison – Compare two DNA sequences and compute their LCS.
+
 🌱 Evolutionary Analysis – Analyze genetic similarities to infer evolutionary relationships.
+
 ⚡ Mutation Detection – Identify mismatches and potential mutations in DNA sequences.
+
 🔎 Functional Insights – Understand the biological significance of DNA variations.
+
 💻 User-Friendly UI – Clean, interactive web interface for seamless analysis.
 
 🛠️ Tech Stack
 
 Frontend
-<ul>HTML5 – Structure and layout</ul>
+
+<l>HTML5 – Structure and layout</l>
+
 CSS3 – Styling and responsive design
+
 JavaScript (Vanilla JS) – Interactivity, validation, and DNA analysis algorithms
+
 Backend (optional for future expansion)
+
 Node.js – Server-side DNA analysis
 
 Express.js – API handling for scalable requests
 
-Other Tools
-
-**Mermaid – For architecture and workflow diagrams**
-
-🏗️ Architecture
+🏗️ Architecture Diagram
 
 GenomicVision follows a client-server model:
 
